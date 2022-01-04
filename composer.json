@@ -1,0 +1,17 @@
+{
+    "name": "joalm-library/php-fcm",
+    "description": "Liberia que implementa fcm v1",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "JoalmLibrary\\PhpFcm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "antonioDeveloperMx",
+            "email": "antoniolopez.developer@gmail.com"
+        }
+    ],
+    "require": {}
+}
